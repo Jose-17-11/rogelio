@@ -1,0 +1,30 @@
+.btn-hover-scale:hover {
+    transition: .5s;
+    scale: 110%;
+    border: 2px solid #fff;
+}
+
+.main_container {
+    width: 100%;
+    height: 100vh;
+    padding: 0 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel {
+    background-color: #ff0000;
+    min-width: 200px;
+}
+
+.d-block {
+    min-width: 200px;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.d-block {
+    min-width: 200px;
+    max-height: 400px;
+}
